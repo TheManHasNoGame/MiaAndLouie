@@ -35,7 +35,7 @@ body {
 
 button,
 input[type="checkbox"] {
-  outline: none;
+outline: none;
 }
 
 .hidden {
@@ -125,7 +125,7 @@ label[for='toggle-all'] {
   width: 60px;
   height: 34px;
   text-align: center;
-  border: none; /* Mobile Safari */
+  border: black;
 }
 
 .toggle-all:before {
